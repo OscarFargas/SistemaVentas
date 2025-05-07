@@ -18,5 +18,5 @@
         print('Error' . $e->getMessage(). '<br>');
         die("Error conectando en la base de datos");
     }
-    return $con;
- });
+    return $con;
+});

@@ -6,5 +6,5 @@ $container->set('config_bd', function(){
         "usr"=>"root",
         "passw"=>"12345",
         "charset"=>"utf8mb4"
-    ];
+    ];
 });
